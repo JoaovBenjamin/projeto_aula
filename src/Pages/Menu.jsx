@@ -18,6 +18,7 @@ function Menu(){
                     <li><a href="/" style={link}>Home</a></li>
                     <li><a href="/listacarros" style={link}>Lista Carro</a></li>
                     <li><a href="/sobre" style={link}>Sobre</a></li>
+                    <li><a href="/cep" style={link}>CEP</a></li>
                 </ul>
             </nav>
         
